@@ -1,2 +1,2 @@
-# -arcobaleno-reborn
+# arcobaleno-reborn
 Facilitates for restarting application process.
